@@ -1,6 +1,8 @@
 # PetitPrincess
 GA5th 4Q Project (DirectX11 3D)
 
+[플레이 영상](https://www.youtube.com/watch?v=D2ihcml6kbs&ab_channel=Dongil)
+
 ![포인트](https://github.com/user-attachments/assets/453fbac9-21a5-4eb7-a252-9906617d0fcf)
 ![Honeycam 2024-12-06 18-21-53](https://github.com/user-attachments/assets/37cef713-138e-4ceb-a21d-351a2a1758eb)<br/>
 
