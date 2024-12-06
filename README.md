@@ -1,24 +1,15 @@
 # PetitPrincess
 GA5th 4Q Project (DirectX11 3D)
 
+![포인트](https://github.com/user-attachments/assets/453fbac9-21a5-4eb7-a252-9906617d0fcf)
+![Honeycam 2024-12-06 18-21-53](https://github.com/user-attachments/assets/37cef713-138e-4ceb-a21d-351a2a1758eb)<br/>
 
--플밍<br/>
-김선웅 <br/>
-김동일 <br/>
-박연하 <br/>
-손서희 <br/>
-이서영 <br/>
-유승운 
+장르 : 잠입 액션<br/>
+기술 상세 : C/C++ DirectX11<br/>
+제작 인원 : 11명 (기획 3명, 프로그래밍 5명, 아트 3명)<br/>
+작업 기간 : 2024년 1월 29일 → 2024년 2월 22일 (4주)<br/>
+담당 업무 : 에디터 / 미니게임 구현<br/>
+<br/>
 
--아트<br/>
-민지운<br/>
-신중규<br/>
-안영연
-
--기획<br/>
-윤태일<br/>
-류범영
- 
-
-프로젝트 기간<br/>
-2024.01/29 ~ 02.23 (4주)
+![image](https://github.com/user-attachments/assets/1878b640-63b7-4f35-89ed-e99b30c2de16)<br/>
+SVN을 사용하여 협업 관리
